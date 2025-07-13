@@ -1,1 +1,6 @@
-"Rebuilt the basic todo app from memory to reinforce JS, DOM, and localStorage logic. Faced bugs, referred old code, and completed it after debugging."
+Rebuilt the core Todo App from scratch to reinforce JavaScript fundamentals.
+** Purpose:
+This version was built on Day 13 of my full-stack roadmap without direct code reference to test memory, logic, and understanding of the DOM and localStorage.
+
+### Demo:
+[Live Site](https://sweet-kitsune-2aa484.netlify.app/)
